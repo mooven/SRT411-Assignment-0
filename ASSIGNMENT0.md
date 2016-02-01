@@ -67,7 +67,7 @@ plot the 100 numbers on a graph.
     x = rnorm(100) #saving the 100 numbers as a variable called x
     plot(x) # plotting the graph
 
-![](ASSIGNMENT0_files/figure-markdown_strict/unnamed-chunk-4-1.png)<!-- -->
+![](SRT411-Assignment-0/unnamed-chunk-4-1.png)<!-- -->
 
 The graph once plotted is as shown below. We will show in the later
 steps how to plot graphs using different colors and different size and
